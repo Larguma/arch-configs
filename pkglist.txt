@@ -43,6 +43,7 @@ nemo
 nemo-fileroller
 noto-fonts-emoji
 nwg-look
+openconnect
 openssh
 overskride-bin
 pacman-contrib
