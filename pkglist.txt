@@ -41,7 +41,6 @@ micro
 nano
 nemo
 nemo-fileroller
-noto-fonts
 noto-fonts-emoji
 nwg-look
 openssh
