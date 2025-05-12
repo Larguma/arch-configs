@@ -61,7 +61,6 @@ rofi-wayland
 sassc
 sddm
 slurp
-smartmontools
 spotify
 steam
 swappy
