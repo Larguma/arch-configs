@@ -36,6 +36,7 @@ linux-headers
 localsend
 man-db
 man-pages
+maven
 mesa-utils
 micro
 nano
