@@ -7,6 +7,7 @@ btop
 catppuccin-cursors-mocha
 chaotic-keyring
 chaotic-mirrorlist
+cisco-anyconnect
 cliphist
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
@@ -30,7 +31,6 @@ kitty
 kvantum
 lib32-vulkan-radeon
 libpulse
-libxml2-legacy
 linux
 linux-firmware
 linux-headers
