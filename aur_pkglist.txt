@@ -1,3 +1,4 @@
+cisco-secure-client
 hyprprop-git
 iwgtk
 overskride-bin
