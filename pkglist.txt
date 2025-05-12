@@ -60,6 +60,7 @@ rofi-wayland
 sassc
 sddm
 slurp
+solaar
 spotify
 steam
 swappy
