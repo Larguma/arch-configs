@@ -16,6 +16,7 @@ fish
 fisher
 gamescope
 git
+globalprotect-openconnect
 gnome-themes-extra
 godot
 grim
