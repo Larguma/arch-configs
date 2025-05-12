@@ -15,7 +15,6 @@ dunst
 fish
 fisher
 gamescope
-gifski
 git
 gnome-themes-extra
 godot
