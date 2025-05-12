@@ -45,6 +45,7 @@ nemo-fileroller
 noto-fonts-emoji
 nwg-look
 openconnect
+openconnect-sso
 openssh
 overskride-bin
 pacman-contrib
@@ -54,18 +55,6 @@ pipewire-jack
 pipewire-pulse
 polkit-kde-agent
 proton-ge-custom-bin
-python-colorama
-python-jaraco.classes
-python-keyring
-python-prompt_toolkit
-python-pyqt5
-python-pyqt5-webengine
-python-pysocks
-python-pytest
-python-pytest-asyncio
-python-pyxdg
-python-structlog
-python-toml
 qt5-wayland
 qt6-wayland
 rocm-smi-lib
