@@ -1,6 +1,7 @@
 cisco-secure-client
 hyprprop-git
 iwgtk
+openconnect-sso
 overskride-bin
 waypaper
 where-is-my-sddm-theme-git
