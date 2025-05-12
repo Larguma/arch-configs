@@ -7,7 +7,6 @@ btop
 catppuccin-cursors-mocha
 chaotic-keyring
 chaotic-mirrorlist
-cisco-anyconnect
 cliphist
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
