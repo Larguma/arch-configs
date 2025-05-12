@@ -1,4 +1,3 @@
-cisco-secure-client
 hyprprop-git
 iwgtk
 openconnect-sso
