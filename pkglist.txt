@@ -30,6 +30,7 @@ kitty
 kvantum
 lib32-vulkan-radeon
 libpulse
+libxml2-legacy
 linux
 linux-firmware
 linux-headers
