@@ -1,4 +1,3 @@
-cisco-anyconnect
 hyprprop-git
 iwgtk
 overskride-bin
