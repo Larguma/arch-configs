@@ -1,0 +1,5 @@
+hyprprop-git
+iwgtk
+overskride-bin
+waypaper
+where-is-my-sddm-theme-git
