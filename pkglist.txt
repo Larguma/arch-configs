@@ -84,6 +84,7 @@ vivaldi
 vulkan-radeon
 waybar
 waypaper
+wev
 wget
 where-is-my-sddm-theme-git
 wireless_tools
