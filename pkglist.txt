@@ -57,6 +57,7 @@ pipewire-pulse
 podman
 polkit-kde-agent
 proton-ge-custom-bin
+python-gdal
 qt5-wayland
 qt6-wayland
 rocm-smi-lib
