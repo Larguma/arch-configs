@@ -1,12 +1,10 @@
 amd-ucode
-arrow
 base
 base-devel
 bluez
 bluez-utils
 btop
 catppuccin-cursors-mocha
-cfitsio
 chaotic-keyring
 chaotic-mirrorlist
 cliphist
@@ -39,7 +37,6 @@ linux-headers
 localsend
 man-db
 man-pages
-mariadb-libs
 maven
 mesa-utils
 micro
@@ -48,10 +45,8 @@ nemo
 nemo-fileroller
 noto-fonts-emoji
 nwg-look
-opencl-headers
 openconnect
 openconnect-sso
-openexr
 openssh
 overskride-bin
 pacman-contrib
@@ -60,10 +55,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 podman
-podofo
 polkit-kde-agent
-poppler
-postgresql-libs
 proton-ge-custom-bin
 python-gdal
 qt5-wayland
