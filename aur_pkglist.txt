@@ -1,5 +1,3 @@
-filegdb-api
-hdf4
 hyprprop-git
 iwgtk
 openconnect-sso
