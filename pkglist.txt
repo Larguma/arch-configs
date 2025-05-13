@@ -12,6 +12,7 @@ colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 downgrade
 dunst
+filegdb-api
 fish
 fisher
 gamescope
@@ -22,6 +23,7 @@ godot
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
+hdf4
 hyprland
 hyprlock
 hyprprop-git
