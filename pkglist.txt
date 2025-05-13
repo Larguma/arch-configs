@@ -3,6 +3,7 @@ base
 base-devel
 bluez
 bluez-utils
+boost
 btop
 catppuccin-cursors-mocha
 chaotic-keyring
@@ -43,6 +44,7 @@ micro
 nano
 nemo
 nemo-fileroller
+netcdf
 noto-fonts-emoji
 nwg-look
 openconnect
@@ -50,6 +52,7 @@ openconnect-sso
 openssh
 overskride-bin
 pacman-contrib
+patchelf
 pipewire
 pipewire-alsa
 pipewire-jack
@@ -70,6 +73,7 @@ spotify
 steam
 swappy
 swaync
+swig
 swww
 syncthing
 ttf-cascadia-code-nerd
@@ -79,6 +83,7 @@ ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
+uriparser
 vesktop
 vi
 visual-studio-code-bin
