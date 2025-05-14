@@ -11,6 +11,7 @@ cliphist
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 docker
+docker-compose
 downgrade
 dunst
 fish
