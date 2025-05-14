@@ -55,7 +55,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 podman
-podman-compose
 polkit-kde-agent
 proton-ge-custom-bin
 qt5-wayland
