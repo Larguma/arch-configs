@@ -1,4 +1,5 @@
 amd-ucode
+aspnet-runtime-bin
 base
 base-devel
 bluez
