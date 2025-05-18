@@ -1,5 +1,6 @@
 hyprprop-git
 iwgtk
+libwireplumber-4.0-compat
 openconnect-sso
 overskride-bin
 waypaper
