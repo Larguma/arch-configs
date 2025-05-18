@@ -34,6 +34,7 @@ kitty
 kvantum
 lib32-vulkan-radeon
 libpulse
+libwireplumber-4.0-compat
 linux
 linux-firmware
 linux-headers
