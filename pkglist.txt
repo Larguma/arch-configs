@@ -34,7 +34,6 @@ kitty
 kvantum
 lib32-vulkan-radeon
 libpulse
-libwireplumber-4.0-compat
 linux
 linux-firmware
 linux-headers
@@ -61,6 +60,7 @@ pipewire-pulse
 podman
 polkit-kde-agent
 proton-ge-custom-bin
+pwvucontrol
 qt5-wayland
 qt6-wayland
 rocm-smi-lib
