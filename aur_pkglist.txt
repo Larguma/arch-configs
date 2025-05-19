@@ -3,5 +3,6 @@ iwgtk
 openconnect-sso
 overskride-bin
 pwvucontrol
+python-keyboard
 waypaper
 where-is-my-sddm-theme-git
