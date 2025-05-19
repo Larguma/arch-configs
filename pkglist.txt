@@ -4,6 +4,7 @@ base
 base-devel
 bluez
 bluez-utils
+bottles
 btop
 catppuccin-cursors-mocha
 chaotic-keyring
