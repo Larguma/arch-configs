@@ -43,6 +43,7 @@ man-db
 man-pages
 mangohud
 maven
+mesa-tkg-git
 mesa-utils
 micro
 mpv
@@ -90,7 +91,6 @@ vesktop
 vi
 visual-studio-code-bin
 vivaldi
-vulkan-radeon
 waybar
 waypaper
 wev
