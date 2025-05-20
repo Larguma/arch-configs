@@ -26,7 +26,6 @@ grim
 gst-plugin-pipewire
 gtk-engine-murrine
 heroic-games-launcher-bin
-http-parser
 hyprland
 hyprlock
 hyprprop-git
@@ -35,7 +34,6 @@ iwgtk
 kitty
 kvantum
 lib32-vulkan-radeon
-libappindicator-gtk3
 libpulse
 linux
 linux-firmware
@@ -70,6 +68,7 @@ proton-ge-custom-bin
 pwvucontrol
 qt5-wayland
 qt6-wayland
+r2modman-bin
 rocm-smi-lib
 rofi-calc
 rofi-wayland
