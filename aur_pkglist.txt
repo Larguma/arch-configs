@@ -1,3 +1,4 @@
+gpu-viewer
 hyprprop-git
 iwgtk
 openconnect-sso
