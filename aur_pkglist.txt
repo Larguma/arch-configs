@@ -4,5 +4,6 @@ openconnect-sso
 overskride-bin
 pince-git
 pwvucontrol
+r2modman-bin
 waypaper
 where-is-my-sddm-theme-git
