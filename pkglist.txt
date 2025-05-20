@@ -41,6 +41,7 @@ linux-headers
 localsend
 man-db
 man-pages
+mangohud
 maven
 mesa-utils
 micro
