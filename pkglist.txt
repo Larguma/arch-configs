@@ -22,7 +22,6 @@ gdal
 git
 gnome-themes-extra
 godot
-gpu-viewer
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
