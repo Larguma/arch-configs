@@ -22,6 +22,7 @@ gdal
 git
 gnome-themes-extra
 godot
+gputest
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
@@ -89,7 +90,6 @@ ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
-unzip
 vesktop
 vi
 visual-studio-code-bin
