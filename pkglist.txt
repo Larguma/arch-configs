@@ -22,7 +22,6 @@ gdal
 git
 gnome-themes-extra
 godot
-gputest
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
