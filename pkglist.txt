@@ -57,6 +57,7 @@ openconnect-sso
 openssh
 overskride-bin
 pacman-contrib
+phoronix-test-suite
 pince-git
 pipewire
 pipewire-alsa
