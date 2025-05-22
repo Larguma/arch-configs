@@ -64,6 +64,7 @@ pipewire-jack
 pipewire-pulse
 podman
 polkit-kde-agent
+prismlauncher
 proton-ge-custom-bin
 pwvucontrol
 qt5-wayland
