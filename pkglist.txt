@@ -31,6 +31,7 @@ hyprlock
 hyprprop-git
 iwd
 iwgtk
+jdk21-openjdk
 kitty
 kvantum
 lib32-vulkan-radeon
