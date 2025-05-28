@@ -1,3 +1,4 @@
+galendae-git
 hyprprop-git
 iwgtk
 openconnect-sso
