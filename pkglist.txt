@@ -4,6 +4,7 @@ base
 base-devel
 bluez
 bluez-utils
+brightnessctl
 btop
 catppuccin-cursors-mocha
 chaotic-keyring
