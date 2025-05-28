@@ -68,6 +68,7 @@ podman
 polkit-kde-agent
 prismlauncher
 proton-ge-custom-bin
+pv
 pwvucontrol
 qt5-wayland
 qt6-wayland
