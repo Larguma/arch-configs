@@ -8,6 +8,7 @@ btop
 catppuccin-cursors-mocha
 chaotic-keyring
 chaotic-mirrorlist
+clicker-git
 cliphist
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
