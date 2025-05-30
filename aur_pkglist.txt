@@ -1,3 +1,4 @@
+clicker-git
 galendae-git
 hyprprop-git
 iwgtk
