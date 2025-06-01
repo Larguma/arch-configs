@@ -61,7 +61,6 @@ openconnect-sso
 openssh
 overskride-bin
 pacman-contrib
-pince-git
 pipewire
 pipewire-alsa
 pipewire-jack
