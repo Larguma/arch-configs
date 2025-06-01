@@ -61,6 +61,7 @@ openconnect-sso
 openssh
 overskride-bin
 pacman-contrib
+pince
 pipewire
 pipewire-alsa
 pipewire-jack
@@ -72,7 +73,6 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-keyboard
 qt5-wayland
 qt6-wayland
 r2modman-bin
