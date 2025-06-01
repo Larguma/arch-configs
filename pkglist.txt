@@ -67,7 +67,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 podman
-polkit-kde-agent
 postgresql
 prismlauncher
 proton-ge-custom-bin
