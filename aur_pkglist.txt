@@ -4,7 +4,6 @@ hyprprop-git
 iwgtk
 openconnect-sso
 overskride-bin
-pince-git
 pwvucontrol
 r2modman-bin
 waypaper
