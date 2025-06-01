@@ -38,6 +38,7 @@ jdk21-openjdk
 kitty
 kvantum
 lib32-vulkan-radeon
+libnewt
 libpulse
 linux
 linux-firmware
@@ -95,6 +96,7 @@ ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
+uwsm
 vesktop
 vi
 visual-studio-code-bin
