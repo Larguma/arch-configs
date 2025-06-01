@@ -19,7 +19,6 @@ dunst
 fish
 fisher
 galendae-git
-gameconqueror
 gamescope
 gdal
 git
