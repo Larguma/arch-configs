@@ -21,7 +21,6 @@ fisher
 galendae-git
 gamescope
 gdal
-gdb
 git
 gnome-themes-extra
 godot
@@ -73,11 +72,7 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-capstone
-python-keystone
-python-pexpect
-python-pygdbmi
-python-pyqt6
+python-keyboard
 qt5-wayland
 qt6-wayland
 r2modman-bin
