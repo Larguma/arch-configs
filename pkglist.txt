@@ -37,8 +37,6 @@ iwgtk
 jdk21-openjdk
 kitty
 kvantum
-layer-shell-qt
-layer-shell-qt5
 lib32-vulkan-radeon
 libnewt
 libpulse
