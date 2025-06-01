@@ -30,6 +30,7 @@ gtk-engine-murrine
 heroic-games-launcher-bin
 hyprland
 hyprlock
+hyprpolkitagent
 hyprprop-git
 iwd
 iwgtk
