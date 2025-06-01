@@ -4,8 +4,8 @@ hyprprop-git
 iwgtk
 openconnect-sso
 overskride-bin
+pince
 pwvucontrol
-python-keyboard
 r2modman-bin
 waypaper
 where-is-my-sddm-theme-git
