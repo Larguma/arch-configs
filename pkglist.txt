@@ -58,6 +58,7 @@ nemo-fileroller
 noto-fonts-emoji
 npm
 nwg-look
+obsidian
 openconnect
 openconnect-sso
 openssh
