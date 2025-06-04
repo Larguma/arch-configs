@@ -1,3 +1,4 @@
+alvr
 amd-ucode
 aspnet-runtime-bin
 base
