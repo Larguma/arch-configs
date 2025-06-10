@@ -71,7 +71,6 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
-pnpm
 podman
 postgresql
 prismlauncher
@@ -101,6 +100,7 @@ ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
 uwsm
+vermilion-git
 vesktop
 vi
 visual-studio-code-bin
