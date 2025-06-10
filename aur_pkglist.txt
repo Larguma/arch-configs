@@ -1,7 +1,6 @@
 clicker-git
 galendae-git
 hyprprop-git
-hyprsysteminfo
 iwgtk
 openconnect-sso
 overskride-bin
