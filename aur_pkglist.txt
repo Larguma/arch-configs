@@ -7,5 +7,6 @@ overskride-bin
 pince-git
 pwvucontrol
 r2modman-bin
+vermilion-git
 waypaper
 where-is-my-sddm-theme-git
