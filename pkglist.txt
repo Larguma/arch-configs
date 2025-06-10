@@ -91,7 +91,6 @@ spotify
 steam
 swappy
 swaync
-swww
 syncthing
 ttf-cascadia-code-nerd
 ttf-liberation
