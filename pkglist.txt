@@ -1,6 +1,5 @@
 alvr
 amd-ucode
-amf-headers
 aspnet-runtime-bin
 base
 base-devel
