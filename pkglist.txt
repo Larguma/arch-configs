@@ -34,6 +34,7 @@ hyprlock
 hyprpaper
 hyprpolkitagent
 hyprprop-git
+immich-go
 iwd
 iwgtk
 jdk21-openjdk
