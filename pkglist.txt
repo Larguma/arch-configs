@@ -29,6 +29,7 @@ grim
 gst-plugin-pipewire
 gtk-engine-murrine
 heroic-games-launcher-bin
+hexchat
 hyprland
 hyprlock
 hyprpaper
