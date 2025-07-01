@@ -1,3 +1,4 @@
+calibre-bin
 clicker-git
 galendae-git
 hyprprop-git
