@@ -24,6 +24,7 @@ galendae-git
 gamescope
 gdal
 git
+gn
 gnome-themes-extra
 godot
 grim
@@ -96,6 +97,7 @@ steam
 swappy
 swaync
 syncthing
+tinyxml2
 ttf-cascadia-code-nerd
 ttf-liberation
 ttf-nerd-fonts-symbols
