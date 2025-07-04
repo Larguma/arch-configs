@@ -1,5 +1,6 @@
 alvr
 amd-ucode
+asar
 aseprite
 aspnet-runtime-bin
 base
@@ -19,6 +20,7 @@ docker
 docker-compose
 downgrade
 dunst
+electron36
 fish
 fisher
 galendae-git
