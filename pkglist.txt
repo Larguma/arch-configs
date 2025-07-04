@@ -1,6 +1,5 @@
 alvr
 amd-ucode
-asar
 aseprite
 aspnet-runtime-bin
 base
@@ -20,7 +19,6 @@ docker
 docker-compose
 downgrade
 dunst
-electron36
 fish
 fisher
 galendae-git
@@ -99,6 +97,7 @@ steam
 swappy
 swaync
 syncthing
+triliumnext-bin
 ttf-cascadia-code-nerd
 ttf-liberation
 ttf-nerd-fonts-symbols
