@@ -66,6 +66,7 @@ npm
 nwg-look
 obs-studio
 obsidian
+onlyoffice-bin
 openconnect
 openconnect-sso
 openssh
