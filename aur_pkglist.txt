@@ -2,6 +2,7 @@ aseprite
 calibre-bin
 clicker-git
 galendae-git
+hyprls-git
 hyprprop-git
 iwgtk
 openconnect-sso
