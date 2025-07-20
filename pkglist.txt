@@ -34,6 +34,7 @@ heroic-games-launcher-bin
 hexchat
 hyprland
 hyprlock
+hyprls-git
 hyprpaper
 hyprpolkitagent
 hyprprop-git
@@ -41,7 +42,6 @@ immich-go
 iwd
 iwgtk
 jdk21-openjdk
-just
 kitty
 kvantum
 lib32-vulkan-radeon
