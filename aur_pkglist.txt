@@ -1,4 +1,3 @@
-alsamixergui
 aseprite
 calibre-bin
 clicker-git
