@@ -21,6 +21,7 @@ downgrade
 dunst
 fish
 fisher
+fltk
 galendae-git
 gamescope
 gdal
