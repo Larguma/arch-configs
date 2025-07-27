@@ -19,6 +19,7 @@ docker
 docker-compose
 downgrade
 dunst
+electron37-bin
 fish
 fisher
 galendae-git
@@ -42,7 +43,6 @@ immich-go
 iwd
 iwgtk
 jdk21-openjdk
-just
 kitty
 kvantum
 lib32-vulkan-radeon
