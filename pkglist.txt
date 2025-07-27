@@ -120,7 +120,6 @@ where-is-my-sddm-theme-git
 wireless_tools
 wireplumber
 wlogout
-wofi
 wpa_supplicant
 xdg-desktop-portal-hyprland
 xdg-utils
