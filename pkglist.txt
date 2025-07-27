@@ -19,7 +19,6 @@ docker
 docker-compose
 downgrade
 dunst
-electron37-bin
 fish
 fisher
 galendae-git
