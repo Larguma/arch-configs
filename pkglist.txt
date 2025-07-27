@@ -1,4 +1,3 @@
-alsamixergui
 alvr
 amd-ucode
 aseprite
