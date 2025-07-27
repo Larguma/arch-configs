@@ -1,6 +1,7 @@
 aseprite
 calibre-bin
 clicker-git
+electron37-bin
 galendae-git
 hyprls-git
 hyprprop-git
