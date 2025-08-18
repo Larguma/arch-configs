@@ -1,3 +1,4 @@
+7zip
 alvr
 amd-ucode
 aseprite
