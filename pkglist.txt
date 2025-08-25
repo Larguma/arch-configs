@@ -43,6 +43,7 @@ immich-go
 iwd
 iwgtk
 jdk21-openjdk
+just
 kitty
 kvantum
 lib32-vulkan-radeon
