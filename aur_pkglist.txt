@@ -9,7 +9,6 @@ openconnect-sso
 overskride-bin
 pince-git
 r2modman-bin
-rofi-wayland
 triliumnext-bin
 waypaper
 where-is-my-sddm-theme-git
