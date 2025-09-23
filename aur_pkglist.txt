@@ -2,6 +2,7 @@ aseprite
 calibre-bin
 clicker-git
 galendae-git
+gpu-viewer
 hyprls-git
 hyprprop-git
 iwgtk
