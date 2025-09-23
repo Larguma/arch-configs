@@ -13,6 +13,7 @@ catppuccin-cursors-mocha
 chaotic-keyring
 chaotic-mirrorlist
 clicker-git
+clinfo
 cliphist
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
@@ -85,6 +86,7 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-click
 qt5-wayland
 qt6-wayland
 qtscrcpy
@@ -109,10 +111,12 @@ ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
 uwsm
+vdpauinfo
 vesktop
 vi
 visual-studio-code-bin
 vivaldi
+vulkan-tools
 waybar
 waypaper
 wev
@@ -127,6 +131,7 @@ xdg-utils
 xf86-video-amdgpu
 xf86-video-ati
 xorg-server
+xorg-xdpyinfo
 xorg-xinit
 yad
 yay
