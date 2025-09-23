@@ -1,5 +1,4 @@
 7zip
-alvr
 amd-ucode
 aseprite
 aspnet-runtime-bin
