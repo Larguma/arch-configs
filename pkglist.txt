@@ -62,6 +62,7 @@ mpv
 nano
 nemo
 nemo-fileroller
+nordvpn-bin
 noto-fonts-emoji
 npm
 nwg-look
