@@ -55,6 +55,7 @@ man-db
 man-pages
 mangohud
 maven
+media-downloader
 mesa
 mesa-utils
 micro
