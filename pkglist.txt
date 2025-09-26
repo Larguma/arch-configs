@@ -8,7 +8,6 @@ base-devel
 bluez
 bluez-utils
 btop
-cable
 calibre-bin
 catppuccin-cursors-mocha
 chaotic-keyring
