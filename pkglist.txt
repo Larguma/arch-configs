@@ -61,6 +61,7 @@ mesa-utils
 micro
 mpv
 nano
+ncspot
 nemo
 nemo-fileroller
 nordvpn-bin
@@ -97,6 +98,7 @@ sassc
 sddm
 slurp
 spotify
+spotify-qt
 steam
 swappy
 swaync
