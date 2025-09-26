@@ -1,4 +1,5 @@
 7zip
+aj-snapshot
 amd-ucode
 aria2
 aseprite
@@ -42,6 +43,7 @@ hyprprop-git
 immich-go
 iwd
 iwgtk
+jack_delay
 jdk21-openjdk
 kitty
 kvantum
@@ -86,6 +88,7 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-jack-client
 qt5-wayland
 qt6-wayland
 qtscrcpy
