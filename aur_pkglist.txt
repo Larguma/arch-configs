@@ -1,4 +1,5 @@
 aseprite
+cable
 calibre-bin
 clicker-git
 galendae-git
@@ -8,7 +9,6 @@ iwgtk
 openconnect-sso
 overskride-bin
 pince-git
-python-pyalsaaudio
 r2modman-bin
 triliumnext-bin
 waypaper
