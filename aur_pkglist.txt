@@ -1,5 +1,4 @@
 aseprite
-cable
 calibre-bin
 clicker-git
 galendae-git
