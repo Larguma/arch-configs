@@ -96,6 +96,7 @@ rofi-calc
 sassc
 sddm
 slurp
+spotify-launcher
 steam
 swappy
 swaync
