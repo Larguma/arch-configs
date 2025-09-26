@@ -109,6 +109,7 @@ ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
+unrar
 uwsm
 vesktop
 vi
