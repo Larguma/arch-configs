@@ -97,6 +97,7 @@ sassc
 sddm
 slurp
 spotify
+spotify-launcher
 steam
 swappy
 swaync
