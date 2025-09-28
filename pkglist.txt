@@ -68,7 +68,6 @@ obs-studio
 obsidian
 onlyoffice-bin
 openconnect
-openconnect-sso
 openssh
 overskride-bin
 pacman-contrib
