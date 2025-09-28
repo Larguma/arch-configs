@@ -39,6 +39,7 @@ hyprls-git
 hyprpaper
 hyprpolkitagent
 hyprprop-git
+hyprshot
 iwd
 iwgtk
 jdk21-openjdk
