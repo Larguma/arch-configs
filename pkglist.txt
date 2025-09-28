@@ -33,7 +33,6 @@ gst-plugin-pipewire
 gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
-hypridle
 hyprland
 hyprlock
 hyprls-git
@@ -41,7 +40,6 @@ hyprpaper
 hyprpolkitagent
 hyprprop-git
 hyprshot
-hyprsunset
 iwd
 iwgtk
 jdk21-openjdk
