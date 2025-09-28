@@ -5,7 +5,6 @@ galendae-git
 hyprls-git
 hyprprop-git
 iwgtk
-openconnect-sso
 overskride-bin
 pince-git
 r2modman-bin
