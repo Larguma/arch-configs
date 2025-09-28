@@ -58,7 +58,6 @@ mesa
 mesa-utils
 micro
 mpv
-nano
 nemo
 nemo-fileroller
 nordvpn-bin
