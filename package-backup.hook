@@ -1,0 +1,12 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+Target = *
+
+[Action]
+Description = Backing up explicitly installed packages list...
+When = PostTransaction
+Exec = /home/larguma/Git/arch-configs/hook.sh
+Depends = git
