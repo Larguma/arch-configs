@@ -20,7 +20,6 @@ docker
 docker-compose
 downgrade
 dunst
-f3
 fish
 fisher
 galendae-git
