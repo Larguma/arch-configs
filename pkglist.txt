@@ -77,6 +77,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+poppler-glib
 prismlauncher
 proton-ge-custom-bin
 pv
