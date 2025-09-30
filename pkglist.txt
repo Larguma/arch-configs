@@ -97,6 +97,7 @@ steam
 swappy
 swaync
 syncthing
+systemd-resolvconf
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
