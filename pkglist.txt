@@ -24,6 +24,7 @@ elephant-bin
 elephant-calc-bin
 elephant-providerlist-bin
 elephant-todo-bin
+fd
 fish
 fisher
 galendae-git
