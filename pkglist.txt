@@ -21,6 +21,9 @@ docker-compose
 downgrade
 dunst
 elephant-bin
+elephant-calc-bin
+elephant-providerlist-bin
+elephant-todo-bin
 fish
 fisher
 galendae-git
