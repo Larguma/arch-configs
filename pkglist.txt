@@ -20,6 +20,7 @@ docker
 docker-compose
 downgrade
 dunst
+elephant-bin
 fish
 fisher
 galendae-git
