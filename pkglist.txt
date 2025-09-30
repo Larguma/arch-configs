@@ -20,7 +20,6 @@ docker
 docker-compose
 downgrade
 dunst
-elephant
 fish
 fisher
 galendae-git
@@ -115,6 +114,7 @@ vi
 visual-studio-code-bin
 vivaldi
 vulkan-radeon
+walker-bin
 waybar
 waypaper
 wev
