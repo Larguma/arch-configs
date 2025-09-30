@@ -22,9 +22,11 @@ downgrade
 dunst
 elephant-bin
 elephant-calc-bin
+elephant-desktopapplications-bin
+elephant-files-bin
+elephant-menus-bin
 elephant-providerlist-bin
 elephant-todo-bin
-fd
 fish
 fisher
 galendae-git
