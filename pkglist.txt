@@ -35,6 +35,7 @@ elephant-unicode-bin
 elephant-websearch-bin
 fish
 fisher
+g2clib
 galendae-git
 gamescope
 gcc-fortran
@@ -115,6 +116,7 @@ swaync
 syncthing
 systemd-resolvconf
 tixati
+triangle
 triliumnext-bin
 ttf-cascadia-code-nerd
 ttf-liberation
@@ -123,6 +125,7 @@ ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
 ttf-noto-nerd
 ttf-symbola
+udunits
 unrar
 uwsm
 vesktop
