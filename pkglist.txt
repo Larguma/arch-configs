@@ -8,7 +8,6 @@ base-devel
 bluez
 bluez-utils
 btop
-byacc
 calibre-bin
 catppuccin-cursors-mocha
 chaotic-keyring
@@ -44,7 +43,6 @@ git
 gnome-themes-extra
 godot
 grim
-gsl
 gst-plugin-pipewire
 gtk-engine-murrine
 heroic-games-launcher-bin
@@ -56,7 +54,6 @@ hyprpaper
 hyprpolkitagent
 hyprprop-git
 hyprshot
-imake
 iwd
 iwgtk
 jdk21-openjdk
@@ -65,7 +62,6 @@ kvantum
 lib32-vulkan-radeon
 libnewt
 libpulse
-libxaw
 linux
 linux-firmware
 linux-headers
@@ -79,7 +75,6 @@ micro
 mpv
 nemo
 nemo-fileroller
-netcdf-fortran
 nordvpn-bin
 noto-fonts-emoji
 npm
@@ -88,6 +83,7 @@ obs-studio
 obsidian
 onlyoffice-bin
 openconnect
+openmpi
 openssh
 overskride-bin
 pacman-contrib
@@ -100,6 +96,7 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-pyqt5
 qt5-wayland
 qt6-wayland
 qtscrcpy
@@ -117,7 +114,6 @@ swappy
 swaync
 syncthing
 systemd-resolvconf
-tcsh
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
