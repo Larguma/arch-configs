@@ -61,6 +61,7 @@ kvantum
 lib32-vulkan-radeon
 libnewt
 libpulse
+libxp
 linux
 linux-firmware
 linux-headers
