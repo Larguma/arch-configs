@@ -76,7 +76,6 @@ micro
 mpv
 nemo
 nemo-fileroller
-netcdf-fortran-openmpi
 nordvpn-bin
 noto-fonts-emoji
 npm
