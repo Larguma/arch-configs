@@ -63,7 +63,6 @@ kitty
 kvantum
 lib32-vulkan-radeon
 libnewt
-libodb
 libpulse
 linux
 linux-firmware
