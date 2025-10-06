@@ -148,5 +148,6 @@ xf86-video-amdgpu
 xf86-video-ati
 xorg-server
 xorg-xinit
+xterm
 yad
 yay
