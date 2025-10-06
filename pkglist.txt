@@ -98,7 +98,6 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-netcdf4-openmpi
 python-pyqt5
 qt5-wayland
 qt6-wayland
