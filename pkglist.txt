@@ -9,6 +9,7 @@ bluez
 bluez-utils
 bottles
 btop
+build2
 calibre-bin
 catppuccin-cursors-mocha
 chaotic-keyring
