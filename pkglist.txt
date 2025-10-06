@@ -103,7 +103,6 @@ qt5-wayland
 qt6-wayland
 qtscrcpy
 r2modman-bin
-reflector
 rocm-smi-lib
 rofi
 rofi-calc
