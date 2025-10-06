@@ -50,7 +50,6 @@ heroic-games-launcher-bin
 hexchat
 hyprland
 hyprlock
-hyprls-git
 hyprpaper
 hyprpolkitagent
 hyprprop-git
