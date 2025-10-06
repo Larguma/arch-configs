@@ -40,12 +40,12 @@ galendae-git
 gamescope
 gcc-fortran
 gdal
+gendesk
 git
 gnome-themes-extra
 godot
 grim
 gst-plugin-pipewire
-gtk-doc
 gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
@@ -55,6 +55,7 @@ hyprpaper
 hyprpolkitagent
 hyprprop-git
 hyprshot
+inotify-tools
 iwd
 iwgtk
 jdk21-openjdk
@@ -76,7 +77,6 @@ micro
 mpv
 nemo
 nemo-fileroller
-net-tools
 netcdf-fortran-openmpi
 nordvpn-bin
 noto-fonts-emoji
@@ -101,7 +101,10 @@ pv
 pwvucontrol
 python-netcdf4-openmpi
 python-pyqt5
+qt5-gamepad
+qt5-svg
 qt5-wayland
+qt5-x11extras
 qt6-wayland
 qtscrcpy
 r2modman-bin
@@ -116,7 +119,6 @@ swaync
 syncthing
 systemd-resolvconf
 tixati
-tpm2-tools
 triliumnext-bin
 ttf-cascadia-code-nerd
 ttf-liberation
