@@ -54,7 +54,6 @@ hyprpaper
 hyprpolkitagent
 hyprprop-git
 hyprshot
-imagemagick
 iwd
 iwgtk
 jdk21-openjdk
@@ -89,6 +88,7 @@ openmpi
 openssh
 overskride-bin
 pacman-contrib
+panoply
 pince-git
 pipewire
 pipewire-alsa
