@@ -22,6 +22,7 @@ downgrade
 dunst
 elephant-archlinuxpkgs-bin
 elephant-bin
+elephant-bluetooth-bin
 elephant-calc-bin
 elephant-clipboard-bin
 elephant-desktopapplications-bin
