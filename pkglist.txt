@@ -105,11 +105,7 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-m3u8
 python-pyqt5
-python-pyqtdarktheme
-python-python-ffmpeg
-python-tidalapi
 qt5-wayland
 qt6-wayland
 qtscrcpy
@@ -124,6 +120,7 @@ swappy
 swaync
 syncthing
 systemd-resolvconf
+tidal-dl-ng
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
