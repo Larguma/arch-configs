@@ -21,7 +21,6 @@ docker
 docker-compose
 downgrade
 dunst
-electron38
 elephant-archlinuxpkgs-bin
 elephant-bin
 elephant-bluetooth-bin
