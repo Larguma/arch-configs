@@ -105,8 +105,15 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-mpegdash
+pyside6
+python-coloredlogs
+python-dataclasses-json
+python-mutagen
+python-pycryptodome
 python-pyqt5
+python-rich
+python-toml
+python-typer
 qt5-wayland
 qt6-wayland
 qtscrcpy
