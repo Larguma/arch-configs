@@ -120,7 +120,6 @@ swappy
 swaync
 syncthing
 systemd-resolvconf
-tidal-dl-ng
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
