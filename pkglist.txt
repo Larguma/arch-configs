@@ -79,7 +79,6 @@ nemo
 nemo-fileroller
 netcdf
 netcdf-fortran
-nicotine+
 nordvpn-bin
 noto-fonts-emoji
 npm
