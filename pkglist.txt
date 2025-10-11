@@ -105,7 +105,16 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-bottle
+python-darkdetect
+python-dateutil
+python-iso8601
+python-isodate
+python-poetry
+python-pyee
 python-pyqt5
+python-pytest-cov
+python-typing_extensions
 qt5-wayland
 qt6-wayland
 qtscrcpy
