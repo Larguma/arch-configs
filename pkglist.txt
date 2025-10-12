@@ -1,7 +1,6 @@
 7zip
 amd-ucode
 aria2
-aseprite
 aspnet-runtime-bin
 base
 base-devel
