@@ -82,7 +82,9 @@ netcdf
 netcdf-fortran
 nicotine+
 nordvpn-bin
+noto-fonts-cjk
 noto-fonts-emoji
+noto-fonts-extra
 npm
 ntfs-3g
 nwg-look
