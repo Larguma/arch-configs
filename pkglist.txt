@@ -78,6 +78,7 @@ micro
 mpv
 nemo
 nemo-fileroller
+nerdfonts-installer-bin
 netcdf
 netcdf-fortran
 nicotine+
