@@ -75,7 +75,6 @@ maven
 mesa
 mesa-utils
 micro
-miniconda3
 mpv
 nemo
 nemo-fileroller
