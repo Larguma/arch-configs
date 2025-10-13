@@ -114,7 +114,6 @@ qt5-wayland
 qt6-wayland
 qtscrcpy
 r2modman-bin
-rattler-build
 rocm-smi-lib
 sassc
 sddm
