@@ -97,6 +97,7 @@ openssh
 overskride-bin
 pacman-contrib
 panoply
+paraview
 pince-git
 pipewire
 pipewire-alsa
