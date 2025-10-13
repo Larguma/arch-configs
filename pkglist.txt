@@ -49,7 +49,6 @@ godot
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
-hdf4
 heroic-games-launcher-bin
 hexchat
 hyprland
@@ -93,6 +92,7 @@ obs-studio
 obsidian
 onlyoffice-bin
 openconnect
+openmotif
 openmpi
 openssh
 overskride-bin
