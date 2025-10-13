@@ -49,6 +49,7 @@ godot
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
+hdf4
 heroic-games-launcher-bin
 hexchat
 hyprland
