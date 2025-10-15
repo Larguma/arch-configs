@@ -34,7 +34,6 @@ elephant-symbols-bin
 elephant-todo-bin
 elephant-unicode-bin
 elephant-websearch-bin
-feishin-bin
 fftw-openmpi
 fish
 fisher
