@@ -109,7 +109,6 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-pyalsaaudio
 python-pyqt5
 qt5-wayland
 qt6-wayland
@@ -149,7 +148,6 @@ wget
 where-is-my-sddm-theme-git
 wireguard-tools
 wireless_tools
-wiremix
 wireplumber
 wlogout
 wpa_supplicant
