@@ -10,7 +10,6 @@ bottles
 btop
 calibre-bin
 catppuccin-cursors-mocha
-cava
 chaotic-keyring
 chaotic-mirrorlist
 clicker-git
