@@ -16,7 +16,6 @@ clicker-git
 cliphist
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
-coppwr-bin
 docker
 docker-compose
 downgrade
