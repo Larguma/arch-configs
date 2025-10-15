@@ -124,7 +124,6 @@ swappy
 swaync
 syncthing
 systemd-resolvconf
-tauon-music-box
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
