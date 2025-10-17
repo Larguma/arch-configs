@@ -100,7 +100,7 @@ overskride-bin
 pacman-contrib
 panoply
 paraview
-pince-git
+pince
 pipewire
 pipewire-alsa
 pipewire-jack
