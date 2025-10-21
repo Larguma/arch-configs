@@ -140,7 +140,6 @@ unrar
 uwsm
 vesktop
 vi
-vimiv
 visual-studio-code-bin
 vivaldi
 vulkan-radeon
