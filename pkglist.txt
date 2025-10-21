@@ -34,6 +34,7 @@ elephant-symbols-bin
 elephant-todo-bin
 elephant-unicode-bin
 elephant-websearch-bin
+elephant-windows-bin
 fastfetch
 fftw-openmpi
 fish
