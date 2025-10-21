@@ -123,7 +123,6 @@ sddm
 slurp
 spotify-launcher
 steam
-swappy
 swaync
 syncthing
 systemd-resolvconf
