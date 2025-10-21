@@ -60,7 +60,6 @@ hyprpicker
 hyprpolkitagent
 hyprprop-git
 hyprshot
-hyprsysteminfo
 iwd
 iwgtk
 jdk21-openjdk
