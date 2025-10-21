@@ -118,7 +118,6 @@ qt6-wayland
 qtscrcpy
 r2modman-bin
 rocm-smi-lib
-rofi
 sassc
 satty
 sddm
