@@ -118,6 +118,7 @@ qtscrcpy
 r2modman-bin
 rocm-smi-lib
 sassc
+satty
 sddm
 slurp
 spotify-launcher
