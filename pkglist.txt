@@ -55,6 +55,7 @@ hexchat
 hyprland
 hyprlock
 hyprpaper
+hyprpicker
 hyprpolkitagent
 hyprprop-git
 hyprshot
