@@ -112,7 +112,14 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-colorama
+python-prompt_toolkit
+python-pyotp
 python-pyqt5
+python-pyqt6-webengine
+python-pysocks
+python-structlog
+python-toml
 qt5-wayland
 qt6-wayland
 qtscrcpy
