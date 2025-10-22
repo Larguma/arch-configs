@@ -37,6 +37,7 @@ elephant-websearch-bin
 elephant-windows-bin
 fastfetch
 fftw-openmpi
+firefox
 fish
 fisher
 galendae-git
