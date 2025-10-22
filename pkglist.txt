@@ -47,7 +47,6 @@ ghostmirror
 git
 gnome-themes-extra
 godot
-google-chrome
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
