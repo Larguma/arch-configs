@@ -95,7 +95,6 @@ obs-studio
 obsidian
 onlyoffice-bin
 openconnect
-openconnect-sso
 openmotif
 openmpi
 openssh
