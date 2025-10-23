@@ -123,6 +123,8 @@ sassc
 satty
 sddm
 slurp
+spicetify-cli
+spicetify-marketplace-bin
 spotify-launcher
 steam
 swaync
