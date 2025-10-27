@@ -22,7 +22,6 @@ downgrade
 dunst
 elephant-archlinuxpkgs-bin
 elephant-bin
-elephant-bluetooth-bin
 elephant-calc-bin
 elephant-clipboard-bin
 elephant-desktopapplications-bin
@@ -31,10 +30,6 @@ elephant-menus-bin
 elephant-providerlist-bin
 elephant-runner-bin
 elephant-symbols-bin
-elephant-todo-bin
-elephant-unicode-bin
-elephant-websearch-bin
-elephant-windows-bin
 fastfetch
 fftw-openmpi
 firefox
