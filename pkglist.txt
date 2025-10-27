@@ -109,6 +109,7 @@ proton-ge-custom-bin
 pv
 pwvucontrol
 python-pyqt5
+qgis
 qt5-wayland
 qt6-wayland
 qtscrcpy
