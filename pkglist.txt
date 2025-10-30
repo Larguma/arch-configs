@@ -30,7 +30,6 @@ elephant-menus-bin
 elephant-providerlist-bin
 elephant-runner-bin
 elephant-symbols-bin
-elfutils
 fastfetch
 fftw-openmpi
 firefox
@@ -76,7 +75,6 @@ mesa
 mesa-utils
 micro
 mpv
-nasm
 nemo
 nemo-fileroller
 netcdf
