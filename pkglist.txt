@@ -55,6 +55,7 @@ hyprpicker
 hyprpolkitagent
 hyprprop-git
 hyprshot
+imagemagick
 iwd
 iwgtk
 jdk21-openjdk
