@@ -1,7 +1,6 @@
 7zip
 amd-ucode
 aria2
-asciiquarium-transparent-git
 aspnet-runtime-bin
 base
 base-devel
