@@ -149,6 +149,7 @@ waybar
 waypaper
 wev
 wget
+where-is-my-sddm-theme-git
 wireguard-tools
 wireless_tools
 wireplumber
