@@ -6,7 +6,6 @@ base
 base-devel
 bluez
 bluez-utils
-bottles
 btop
 calibre-bin
 catppuccin-cursors-mocha
