@@ -62,7 +62,6 @@ iwgtk
 jdk21-openjdk
 kitty
 kvantum
-layer-shell-qt
 lib32-vulkan-radeon
 libnewt
 libpulse
@@ -114,7 +113,6 @@ python-pyqt5
 qgis
 qt5-wayland
 qt6-wayland
-qtkeychain-qt6
 qtscrcpy
 r2modman-bin
 rocm-smi-lib
@@ -143,6 +141,7 @@ unrar
 uwsm
 vesktop
 vi
+vicinae-bin
 visual-studio-code-bin
 vivaldi
 vulkan-radeon
