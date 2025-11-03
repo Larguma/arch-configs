@@ -4,6 +4,7 @@ aria2
 aspnet-runtime-bin
 base
 base-devel
+bitwarden-cli
 bluez
 bluez-utils
 btop
