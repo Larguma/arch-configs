@@ -68,7 +68,6 @@ linux
 linux-firmware
 linux-headers
 localsend
-ly
 man-db
 man-pages
 maven
