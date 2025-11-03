@@ -86,6 +86,7 @@ noto-fonts-emoji
 noto-fonts-extra
 npm
 ntfs-3g
+nwg-displays
 nwg-look
 obs-studio
 obsidian
