@@ -118,7 +118,6 @@ r2modman-bin
 rocm-smi-lib
 sassc
 satty
-sddm
 slurp
 spicetify-cli
 spicetify-marketplace-bin
@@ -149,7 +148,6 @@ waybar
 waypaper
 wev
 wget
-where-is-my-sddm-theme-git
 wireguard-tools
 wireless_tools
 wireplumber
