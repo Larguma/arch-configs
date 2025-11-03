@@ -118,6 +118,7 @@ r2modman-bin
 rocm-smi-lib
 sassc
 satty
+sddm
 slurp
 spicetify-cli
 spicetify-marketplace-bin
