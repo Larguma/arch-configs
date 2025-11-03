@@ -20,16 +20,6 @@ docker
 docker-compose
 downgrade
 dunst
-elephant-archlinuxpkgs-bin
-elephant-bin
-elephant-calc-bin
-elephant-clipboard-bin
-elephant-desktopapplications-bin
-elephant-files-bin
-elephant-menus-bin
-elephant-providerlist-bin
-elephant-runner-bin
-elephant-symbols-bin
 fastfetch
 fftw-openmpi
 firefox
@@ -145,7 +135,6 @@ vicinae-bin
 visual-studio-code-bin
 vivaldi
 vulkan-radeon
-walker-bin
 waybar
 waypaper
 wev
