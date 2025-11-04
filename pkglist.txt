@@ -10,6 +10,7 @@ bluez-utils
 btop
 calibre-bin
 catppuccin-cursors-mocha
+cfr
 chaotic-keyring
 chaotic-mirrorlist
 clicker-git
@@ -55,7 +56,6 @@ kvantum
 lib32-vulkan-radeon
 libnewt
 libpulse
-libxaw
 linux
 linux-firmware
 linux-headers
