@@ -108,6 +108,7 @@ qt5-wayland
 qt6-wayland
 qtscrcpy
 r2modman-bin
+realtime-privileges
 rocm-smi-lib
 sassc
 satty
