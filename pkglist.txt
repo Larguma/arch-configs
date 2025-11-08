@@ -67,6 +67,8 @@ maven
 mesa
 mesa-utils
 micro
+mono
+mono-msbuild
 mpv
 nemo
 nemo-fileroller
