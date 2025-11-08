@@ -50,6 +50,7 @@ hyprshot
 imagemagick
 iwd
 iwgtk
+jdk-openjdk
 jdk21-openjdk
 kitty
 kvantum
