@@ -52,7 +52,6 @@ iwd
 iwgtk
 jdk-openjdk
 jdk21-openjdk
-jdnbtexplorer
 kitty
 kvantum
 lib32-vulkan-radeon
