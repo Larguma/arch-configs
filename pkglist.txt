@@ -52,6 +52,7 @@ iwd
 iwgtk
 jdk-openjdk
 jdk21-openjdk
+jdnbtexplorer
 kitty
 kvantum
 lib32-vulkan-radeon
@@ -68,6 +69,7 @@ mesa
 mesa-utils
 micro
 mpv
+nbtexplorer
 nemo
 nemo-fileroller
 netcdf
@@ -101,7 +103,6 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-nbt
 python-pyqt5
 qgis
 qt5-wayland
