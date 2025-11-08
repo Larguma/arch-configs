@@ -67,8 +67,6 @@ maven
 mesa
 mesa-utils
 micro
-mono
-mono-msbuild
 mpv
 nemo
 nemo-fileroller
@@ -103,6 +101,7 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-nbt
 python-pyqt5
 qgis
 qt5-wayland
