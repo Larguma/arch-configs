@@ -5,6 +5,7 @@ aspnet-runtime-bin
 base
 base-devel
 bitwarden-cli
+blockbench-bin
 bluez
 bluez-utils
 btop
