@@ -1,6 +1,7 @@
 7zip
 amd-ucode
 aria2
+aseprite
 aspnet-runtime-bin
 base
 base-devel
@@ -123,7 +124,6 @@ steam
 swaync
 syncthing
 systemd-resolvconf
-tinyxml2
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
