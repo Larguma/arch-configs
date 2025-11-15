@@ -123,6 +123,7 @@ steam
 swaync
 syncthing
 systemd-resolvconf
+tinyxml2
 tixati
 triliumnext-bin
 ttf-cascadia-code-nerd
