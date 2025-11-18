@@ -20,6 +20,7 @@ colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cpio
 docker
+docker-buildx
 docker-compose
 downgrade
 dunst
