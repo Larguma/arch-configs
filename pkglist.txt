@@ -1,6 +1,5 @@
 7zip
 amd-ucode
-arctis-bat
 arctis-monitor-bin
 aria2
 aseprite
