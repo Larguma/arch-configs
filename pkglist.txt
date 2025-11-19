@@ -1,5 +1,7 @@
 7zip
 amd-ucode
+arctis-bat
+arctis-monitor-bin
 aria2
 aseprite
 aspnet-runtime-bin
@@ -24,7 +26,6 @@ docker-buildx
 docker-compose
 downgrade
 dunst
-electron31
 fastfetch
 fftw-openmpi
 firefox
