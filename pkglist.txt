@@ -62,6 +62,7 @@ lib32-vulkan-radeon
 libnewt
 libpulse
 linux
+linux-arctis-manager
 linux-firmware
 linux-headers
 localsend
@@ -106,7 +107,6 @@ prismlauncher
 proton-ge-custom-bin
 pv
 pwvucontrol
-python-pipenv
 python-pyqt5
 qgis
 qt5-wayland
