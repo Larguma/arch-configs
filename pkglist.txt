@@ -62,7 +62,6 @@ lib32-vulkan-radeon
 libnewt
 libpulse
 linux
-linux-arctis-manager
 linux-firmware
 linux-headers
 localsend
