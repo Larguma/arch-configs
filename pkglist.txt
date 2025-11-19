@@ -24,6 +24,7 @@ docker-buildx
 docker-compose
 downgrade
 dunst
+electron31
 fastfetch
 fftw-openmpi
 firefox
