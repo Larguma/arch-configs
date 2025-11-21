@@ -52,6 +52,7 @@ hyprpolkitagent
 hyprprop-git
 hyprshot
 imagemagick
+intltool
 iwd
 iwgtk
 jdk-openjdk
