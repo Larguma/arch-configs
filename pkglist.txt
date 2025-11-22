@@ -22,6 +22,8 @@ cpio
 docker
 docker-buildx
 docker-compose
+dotnet-sdk-bin
+dotnet-targeting-pack-bin
 downgrade
 dunst
 fastfetch
