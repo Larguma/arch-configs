@@ -123,6 +123,7 @@ slurp
 spicetify-cli
 spicetify-marketplace-bin
 spotify-launcher
+sshpass
 steam
 swaync
 syncthing
