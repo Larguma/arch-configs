@@ -146,6 +146,7 @@ vicinae-bin
 visual-studio-code-bin
 vivaldi
 vulkan-radeon
+wacomtablet
 waybar
 waypaper
 wev
