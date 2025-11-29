@@ -10,6 +10,7 @@ blockbench-bin
 bluez
 bluez-utils
 btop
+bulky
 calibre-bin
 catppuccin-cursors-mocha
 cfr
