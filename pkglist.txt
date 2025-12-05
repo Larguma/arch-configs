@@ -74,7 +74,6 @@ maven
 mesa
 mesa-utils
 micro
-minizip-ng
 mpv
 nbtexplorer
 nemo
