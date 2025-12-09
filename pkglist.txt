@@ -32,6 +32,7 @@ fftw-openmpi
 firefox
 fish
 fisher
+flite
 galendae-git
 gamescope
 gcc-fortran
