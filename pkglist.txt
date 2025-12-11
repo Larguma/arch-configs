@@ -29,7 +29,6 @@ downgrade
 dunst
 fastfetch
 fftw-openmpi
-firefox
 fish
 fisher
 flite
