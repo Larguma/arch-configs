@@ -31,7 +31,6 @@ fastfetch
 fftw-openmpi
 fish
 fisher
-flite
 galendae-git
 gamescope
 gcc-fortran
