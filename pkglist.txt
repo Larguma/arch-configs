@@ -35,6 +35,7 @@ galendae-git
 gamescope
 gcc-fortran
 gdal
+gemini-cli
 ghostmirror
 git
 gnome-themes-extra
