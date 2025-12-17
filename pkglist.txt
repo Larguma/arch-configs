@@ -37,6 +37,7 @@ gcc-fortran
 gdal
 ghostmirror
 git
+gmni
 gnome-themes-extra
 godot
 grim
