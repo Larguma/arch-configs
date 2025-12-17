@@ -139,6 +139,7 @@ ttf-noto-nerd
 ttf-symbola
 uget
 unrar
+unzip
 uwsm
 vesktop
 vi
