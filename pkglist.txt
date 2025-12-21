@@ -38,6 +38,9 @@ gdal
 gemini-cli
 ghostmirror
 git
+glew
+glfw
+glm
 gnome-themes-extra
 godot
 grim
