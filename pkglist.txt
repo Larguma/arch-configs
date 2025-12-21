@@ -38,9 +38,6 @@ gdal
 gemini-cli
 ghostmirror
 git
-glew
-glfw
-glm
 gnome-themes-extra
 godot
 grim
@@ -69,6 +66,7 @@ libpulse
 linux
 linux-firmware
 linux-headers
+linux-wallpaperengine-git
 localsend
 man-db
 man-pages
