@@ -148,6 +148,7 @@ vicinae-bin
 visual-studio-code-bin
 vivaldi
 vulkan-radeon
+wallpaperengine-gui
 waybar
 waypaper
 wev
