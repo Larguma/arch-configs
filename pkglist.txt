@@ -53,6 +53,8 @@ hyprpicker
 hyprpolkitagent
 hyprprop-git
 hyprshot
+hyprutils-git
+hyprwayland-scanner-git
 imagemagick
 iwd
 iwgtk
