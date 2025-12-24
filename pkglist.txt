@@ -45,6 +45,7 @@ gst-plugin-pipewire
 gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
+hplip
 hyprland
 hyprlauncher
 hyprlock
