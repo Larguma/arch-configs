@@ -20,6 +20,7 @@ clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cpio
+cups
 docker
 docker-buildx
 docker-compose
