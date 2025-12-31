@@ -169,3 +169,4 @@ xorg-server
 xorg-xinit
 yad
 yay
+yt-dlp
