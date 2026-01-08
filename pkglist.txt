@@ -39,7 +39,6 @@ gdal
 gemini-cli
 ghostmirror
 git
-glaze
 gnome-themes-extra
 godot
 grim
@@ -56,7 +55,7 @@ hyprpicker
 hyprpolkitagent
 hyprprop-git
 hyprshot
-hyprtoolkit-git
+hyprshutdown-git
 imagemagick
 iwd
 iwgtk
