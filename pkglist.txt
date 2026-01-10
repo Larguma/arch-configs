@@ -1,5 +1,5 @@
 7zip
-amd-ucode
+amd-ucode-git
 aria2
 aseprite
 aspnet-runtime-bin
