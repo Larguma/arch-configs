@@ -35,6 +35,7 @@ galendae-git
 gemini-cli
 ghostmirror
 git
+glib
 gnome-themes-extra
 godot
 grim
