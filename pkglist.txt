@@ -28,7 +28,6 @@ dotnet-targeting-pack-bin
 downgrade
 dunst
 fastfetch
-ffmpeg-compat-54
 fish
 fisher
 flatpak
