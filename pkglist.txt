@@ -1,10 +1,8 @@
 7zip
 amd-ucode-git
-amf-headers
 aria2
 aseprite
 aspnet-runtime-bin
-avisynthplus
 base
 base-devel
 blockbench-bin
@@ -30,11 +28,10 @@ dotnet-targeting-pack-bin
 downgrade
 dunst
 fastfetch
-ffnvcodec-headers
+ffmpeg7.1
 fish
 fisher
 flatpak
-frei0r-plugins
 galendae-git
 gemini-cli
 ghostmirror
@@ -65,7 +62,6 @@ jdk21-openjdk
 k6-bin
 kitty
 kvantum
-ladspa
 lib32-vulkan-radeon
 libnewt
 libpulse
@@ -80,7 +76,6 @@ mesa
 mesa-utils
 micro
 mpv
-nasm
 nemo
 nemo-fileroller
 noto-fonts-cjk
@@ -145,7 +140,6 @@ vi
 vicinae-bin
 visual-studio-code-bin
 vivaldi
-vulkan-headers
 vulkan-radeon
 waybar
 wev
