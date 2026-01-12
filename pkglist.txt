@@ -88,7 +88,6 @@ obsidian
 onlyoffice-bin
 openconnect
 openconnect-sso
-openjpeg
 openmotif
 openssh
 overskride-bin
@@ -114,6 +113,7 @@ rocm-smi-lib
 sassc
 satty
 sddm
+sdl12-compat
 slurp
 spacedrive
 spicetify-cli
