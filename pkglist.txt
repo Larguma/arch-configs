@@ -28,6 +28,7 @@ dotnet-targeting-pack-bin
 downgrade
 dunst
 fastfetch
+ffmpeg-compat-54
 fish
 fisher
 flatpak
@@ -62,7 +63,6 @@ k6-bin
 kitty
 kvantum
 lib32-vulkan-radeon
-libavutil-52
 libnewt
 libpulse
 linux
