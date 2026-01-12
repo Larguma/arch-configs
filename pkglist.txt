@@ -62,6 +62,7 @@ iwd
 iwgtk
 jdk-openjdk
 jdk21-openjdk
+k6-bin
 kitty
 kvantum
 lib32-vulkan-radeon
