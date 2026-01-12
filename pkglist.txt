@@ -110,8 +110,10 @@ qtscrcpy
 r2modman-bin
 realtime-privileges
 rocm-smi-lib
+rtmpdump
 sassc
 satty
+schroedinger
 sddm
 slurp
 spacedrive
@@ -157,5 +159,6 @@ xf86-video-ati
 xorg-server
 xorg-xinit
 yad
+yasm
 yay
 yt-dlp
