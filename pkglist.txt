@@ -62,6 +62,7 @@ k6-bin
 kitty
 kvantum
 lib32-vulkan-radeon
+libavutil-52
 libnewt
 libpulse
 linux
@@ -113,7 +114,6 @@ rocm-smi-lib
 sassc
 satty
 sddm
-sdl12-compat
 slurp
 spacedrive
 spicetify-cli
