@@ -28,7 +28,6 @@ dotnet-targeting-pack-bin
 downgrade
 dunst
 fastfetch
-ffmpeg7.1
 fish
 fisher
 flatpak
@@ -40,7 +39,6 @@ gnome-themes-extra
 godot
 grim
 gst-plugin-pipewire
-gtk
 gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
@@ -115,7 +113,6 @@ sassc
 satty
 sddm
 slurp
-spacedrive
 spicetify-cli
 spicetify-marketplace-bin
 spotify-launcher
