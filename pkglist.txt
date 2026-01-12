@@ -111,6 +111,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 prismlauncher
+prometheus-bin
 proton-ge-custom-bin
 pv
 pwvucontrol
