@@ -35,11 +35,11 @@ galendae-git
 gemini-cli
 ghostmirror
 git
-glib
 gnome-themes-extra
 godot
 grim
 gst-plugin-pipewire
+gtk
 gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
