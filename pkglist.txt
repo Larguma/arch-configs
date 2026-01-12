@@ -114,6 +114,7 @@ sassc
 satty
 sddm
 slurp
+spacedrive
 spicetify-cli
 spicetify-marketplace-bin
 spotify-launcher
