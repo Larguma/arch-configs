@@ -12,6 +12,7 @@ btop
 bulky
 calibre-bin
 catppuccin-cursors-mocha
+cava
 cfr
 chaotic-keyring
 chaotic-mirrorlist
