@@ -23,6 +23,7 @@ debtap
 docker
 docker-buildx
 docker-compose
+dos2unix
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
