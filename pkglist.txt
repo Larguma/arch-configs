@@ -52,7 +52,6 @@ hyprpolkitagent
 hyprprop-git
 hyprshot
 hyprshutdown-git
-icedtea-web
 imagemagick
 iwd
 iwgtk
