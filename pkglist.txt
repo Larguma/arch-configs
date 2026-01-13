@@ -27,7 +27,6 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
-dunst
 fastfetch
 fish
 fisher
@@ -121,7 +120,6 @@ spicetify-marketplace-bin
 spotify-launcher
 sshpass
 steam
-swaync
 syncthing
 systemd-resolvconf
 tixati
