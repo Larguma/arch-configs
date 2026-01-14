@@ -55,6 +55,7 @@ hyprprop-git
 hyprshot
 hyprshutdown-git
 imagemagick
+inetutils
 iwd
 iwgtk
 jdk-openjdk
