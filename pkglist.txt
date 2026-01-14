@@ -113,6 +113,7 @@ qtscrcpy
 r2modman-bin
 realtime-privileges
 rocm-smi-lib
+rpm-tools
 sassc
 satty
 sddm
