@@ -32,7 +32,6 @@ evolution-data-server
 fastfetch
 fish
 fisher
-flatpak
 galendae-git
 gemini-cli
 ghostmirror
