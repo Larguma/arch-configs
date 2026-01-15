@@ -54,6 +54,7 @@ hyprpolkitagent
 hyprprop-git
 hyprshot
 hyprshutdown-git
+hytale-launcher-bin
 imagemagick
 iwd
 iwgtk
