@@ -69,7 +69,6 @@ libpulse
 linux
 linux-firmware
 linux-headers
-llhttp
 localsend
 man-db
 man-pages
