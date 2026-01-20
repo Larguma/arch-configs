@@ -114,6 +114,7 @@ qtscrcpy
 r-quick-share
 r2modman-bin
 realtime-privileges
+remmina
 rocm-smi-lib
 sassc
 satty
