@@ -96,7 +96,7 @@ openmotif
 openssh
 overskride-bin
 pacman-contrib
-pince
+pince-bin
 pipewire
 pipewire-alsa
 pipewire-jack
