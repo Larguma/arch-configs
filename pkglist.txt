@@ -80,6 +80,7 @@ micro
 mpv
 nemo
 nemo-fileroller
+niri-screen-time-git
 noctalia-shell
 noto-fonts-cjk
 noto-fonts-emoji
