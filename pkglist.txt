@@ -106,6 +106,7 @@ prometheus-bin
 proton-ge-custom-bin
 pv
 pwvucontrol
+python-inputs
 python-pyqt5
 python310
 qt5-wayland
