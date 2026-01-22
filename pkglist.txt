@@ -114,7 +114,6 @@ qt5-wayland
 qt6-wayland
 qtscrcpy
 r-quick-share
-r2modman-bin
 realtime-privileges
 remmina
 ripgrep-all
