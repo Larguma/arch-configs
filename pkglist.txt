@@ -70,6 +70,7 @@ linux
 linux-firmware
 linux-headers
 localsend
+lunar-client
 man-db
 man-pages
 matugen
