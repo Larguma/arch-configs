@@ -28,8 +28,6 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
-evolution
-evolution-data-server
 fastfetch
 fish
 fisher
