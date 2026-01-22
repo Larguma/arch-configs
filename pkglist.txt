@@ -86,6 +86,7 @@ noto-fonts-emoji
 noto-fonts-extra
 npm
 ntfs-3g
+nvm
 nwg-look
 obs-studio
 obsidian
@@ -162,5 +163,6 @@ xf86-video-ati
 xorg-server
 xorg-xinit
 yad
+yarn
 yay
 yt-dlp
