@@ -1,4 +1,5 @@
 7zip
+adw-gtk-theme
 amd-ucode-git
 aria2
 aseprite
