@@ -37,7 +37,6 @@ ghostmirror
 git
 gnome-themes-extra
 godot
-google-calender-widget
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
