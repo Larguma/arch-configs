@@ -22,7 +22,6 @@ colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
 debtap
-ded
 docker
 docker-buildx
 docker-compose
