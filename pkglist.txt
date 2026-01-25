@@ -22,13 +22,13 @@ colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
 debtap
+ded
 docker
 docker-buildx
 docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
-ed
 fastfetch
 fish
 fisher
