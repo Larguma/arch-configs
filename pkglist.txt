@@ -9,6 +9,7 @@ base-devel
 blockbench-bin
 bluez
 bluez-utils
+broot
 btop
 bulky
 calibre-bin
