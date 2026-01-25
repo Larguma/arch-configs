@@ -34,6 +34,7 @@ fisher
 galendae-git
 gemini-cli
 ghostmirror
+ghostty
 git
 gnome-themes-extra
 godot
