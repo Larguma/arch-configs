@@ -128,7 +128,6 @@ sshpass
 steam
 syncthing
 systemd-resolvconf
-thunar
 tixati
 ttf-cascadia-code-nerd
 ttf-liberation
