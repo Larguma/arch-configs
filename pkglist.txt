@@ -77,7 +77,6 @@ mesa
 mesa-utils
 micro
 mpv
-nautilus
 nemo
 nemo-fileroller
 niri-screen-time-git
