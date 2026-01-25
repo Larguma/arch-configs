@@ -126,6 +126,7 @@ spicetify-marketplace-bin
 spotify-launcher
 sshpass
 steam
+superfile
 syncthing
 systemd-resolvconf
 tixati
