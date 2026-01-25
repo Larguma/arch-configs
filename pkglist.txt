@@ -25,6 +25,7 @@ debtap
 docker
 docker-buildx
 docker-compose
+dolphin
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
