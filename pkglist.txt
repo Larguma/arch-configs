@@ -28,6 +28,7 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
+ex-vi-compat
 fastfetch
 fish
 fisher
@@ -36,6 +37,7 @@ gemini-cli
 ghostmirror
 git
 gnome-themes-extra
+go
 godot
 grim
 gst-plugin-pipewire
@@ -141,7 +143,6 @@ uget
 unrar
 unzip
 vesktop
-vi
 vicinae-bin
 visual-studio-code-bin
 vivaldi
