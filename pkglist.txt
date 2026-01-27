@@ -87,7 +87,6 @@ noto-fonts-extra
 npm
 ntfs-3g
 nwg-look
-obs-studio
 obsidian
 onlyoffice-bin
 openconnect
