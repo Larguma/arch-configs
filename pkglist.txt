@@ -37,7 +37,6 @@ gemini-cli
 ghostmirror
 git
 gnome-themes-extra
-godot
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
