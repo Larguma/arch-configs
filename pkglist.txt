@@ -18,6 +18,7 @@ cfr
 chaotic-keyring
 chaotic-mirrorlist
 clicker-git
+cmake
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
