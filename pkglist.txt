@@ -142,7 +142,6 @@ unzip
 vesktop
 vicinae-bin
 visual-studio-code-bin
-vitetris
 vivaldi
 vulkan-radeon
 waybar
