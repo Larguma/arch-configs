@@ -119,6 +119,7 @@ rocm-smi-lib
 sassc
 satty
 sddm
+ski
 slurp
 spicetify-cli
 spicetify-marketplace-bin
