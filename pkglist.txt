@@ -36,6 +36,7 @@ galendae-git
 gemini-cli
 ghostmirror
 git
+github-cli
 gnome-themes-extra
 grim
 gst-plugin-pipewire
