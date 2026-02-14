@@ -11,7 +11,7 @@ bluez
 bluez-utils
 btop
 bulky
-calf
+calf-gui
 calibre-bin
 catppuccin-cursors-mocha
 cava
