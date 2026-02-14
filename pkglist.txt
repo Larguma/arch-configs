@@ -28,6 +28,7 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
+easyeffects-git
 ex-vi-compat
 fastfetch
 fish
@@ -69,10 +70,12 @@ linux
 linux-firmware
 linux-headers
 localsend
+lsp-plugins-lv2
 man-db
 man-pages
 matugen
 maven
+mda.lv2
 mesa
 mesa-utils
 micro
@@ -162,3 +165,4 @@ xorg-xinit
 yad
 yay
 yt-dlp
+zam-plugins-lv2
