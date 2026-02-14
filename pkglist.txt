@@ -11,7 +11,6 @@ bluez
 bluez-utils
 btop
 bulky
-calf
 calibre-bin
 catppuccin-cursors-mocha
 cava
@@ -29,8 +28,6 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
-easyeffects-bundy01-presets
-easyeffects-git
 ex-vi-compat
 fastfetch
 fish
