@@ -17,7 +17,6 @@ cava
 cfr
 chaotic-keyring
 chaotic-mirrorlist
-clang
 clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
@@ -38,7 +37,6 @@ galendae-git
 gemini-cli
 ghostmirror
 git
-gn
 gnome-themes-extra
 grim
 gst-plugin-pipewire
