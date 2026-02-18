@@ -83,6 +83,7 @@ mpv
 nemo
 nemo-fileroller
 noctalia-shell
+nordvpn-bin
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
