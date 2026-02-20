@@ -42,6 +42,7 @@ gnome-themes-extra
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
+haguichi
 heroic-games-launcher-bin
 hexchat
 hplip
