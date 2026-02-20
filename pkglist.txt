@@ -104,7 +104,6 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
-playit
 prismlauncher
 prometheus-bin
 proton-ge-custom-bin
