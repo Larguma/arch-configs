@@ -111,6 +111,7 @@ pv
 pwvucontrol
 python-inputs
 python-pyqt5
+python-sphinx
 python310
 qt5-wayland
 qt6-wayland
@@ -131,6 +132,7 @@ sshpass
 steam
 superfile
 syncthing
+syntax-highlighting
 systemd-resolvconf
 tixati
 ttf-cascadia-code-nerd
