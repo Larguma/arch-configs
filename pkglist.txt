@@ -31,6 +31,7 @@ downgrade
 easyeffects
 ex-vi-compat
 fastfetch
+firefox
 fish
 fisher
 galendae-git
