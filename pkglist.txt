@@ -28,6 +28,7 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
+dunst
 easyeffects
 ex-vi-compat
 fastfetch
