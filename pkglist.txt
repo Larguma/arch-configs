@@ -73,7 +73,6 @@ linux
 linux-firmware
 linux-headers
 localsend
-lsp-plugins
 man-db
 man-pages
 matugen
