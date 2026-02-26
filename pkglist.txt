@@ -28,7 +28,6 @@ docker-compose
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
-easyeffects
 ex-vi-compat
 fastfetch
 firefox
