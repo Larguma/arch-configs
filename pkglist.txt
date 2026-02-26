@@ -30,7 +30,6 @@ dotnet-targeting-pack-bin
 downgrade
 ex-vi-compat
 fastfetch
-firefox
 fish
 fisher
 galendae-git
