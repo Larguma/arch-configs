@@ -129,6 +129,7 @@ spotify-launcher
 sshpass
 steam
 superfile
+swaync
 syncthing
 systemd-resolvconf
 tixati
