@@ -108,7 +108,6 @@ pv
 pwvucontrol
 python-inputs
 python-pyqt5
-python-sphinx
 python310
 qt5-wayland
 qt6-wayland
