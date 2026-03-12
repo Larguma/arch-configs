@@ -34,13 +34,10 @@ fish
 fisher
 galendae-git
 gamemode
-gcc-objc
 gemini-cli
 ghostmirror
 git
 gnome-themes-extra
-gnustep-base
-gnustep-make
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
@@ -99,6 +96,7 @@ openmotif
 openssh
 overskride-bin
 pacman-contrib
+pacmixer
 pince-bin
 pipewire
 pipewire-alsa
