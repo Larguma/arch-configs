@@ -32,6 +32,7 @@ ex-vi-compat
 fastfetch
 fish
 fisher
+fltk
 galendae-git
 gamemode
 gemini-cli
