@@ -1,6 +1,5 @@
 7zip
 adw-gtk-theme
-alsamixergui
 amd-ucode-git
 aria2
 aseprite
@@ -33,7 +32,6 @@ ex-vi-compat
 fastfetch
 fish
 fisher
-fltk1.3
 galendae-git
 gamemode
 gemini-cli
