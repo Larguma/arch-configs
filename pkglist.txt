@@ -52,6 +52,7 @@ hyprpaper
 hyprpicker
 hyprpolkitagent
 hyprprop-git
+hyprpwcenter
 hyprshot
 hyprshutdown-git
 hytale-downloader-bin
