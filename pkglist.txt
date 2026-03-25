@@ -36,6 +36,7 @@ galendae-git
 gamemode
 gemini-cli
 ghostmirror
+ghostty
 git
 gnome-themes-extra
 grim
