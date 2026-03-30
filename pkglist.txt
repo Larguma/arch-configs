@@ -1,5 +1,6 @@
 7zip
 adw-gtk-theme
+agru
 amd-ucode-git
 ansible
 aria2
@@ -40,7 +41,6 @@ gemini-cli
 ghostmirror
 git
 gnome-themes-extra
-go
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
