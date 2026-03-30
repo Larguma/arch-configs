@@ -18,6 +18,7 @@ cava
 cfr
 chaotic-keyring
 chaotic-mirrorlist
+clang
 clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
@@ -38,6 +39,7 @@ gamemode
 gemini-cli
 ghostmirror
 git
+gn
 gnome-themes-extra
 grim
 gst-plugin-pipewire
@@ -109,6 +111,7 @@ pv
 pwvucontrol
 python-inputs
 python-pyqt5
+python-sphinx
 python310
 qt5-wayland
 qt6-wayland
