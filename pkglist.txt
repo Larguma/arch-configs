@@ -3,6 +3,7 @@ adw-gtk-theme
 agru
 amd-ucode-git
 ansible
+aquamarine
 aria2
 aseprite
 aspnet-runtime-bin
@@ -59,6 +60,7 @@ hyprprop-git
 hyprpwcenter
 hyprshot
 hyprshutdown
+hyprtoolkit
 hytale-downloader-bin
 hytale-launcher-bin
 imagemagick
