@@ -50,7 +50,9 @@ haguichi
 heroic-games-launcher-bin
 hexchat
 hplip
+hyprgraphics
 hyprland
+hyprlang
 hyprlauncher
 hyprlock
 hyprpaper
@@ -61,6 +63,7 @@ hyprpwcenter
 hyprshot
 hyprshutdown
 hyprtoolkit
+hyprutils
 hytale-downloader-bin
 hytale-launcher-bin
 imagemagick
