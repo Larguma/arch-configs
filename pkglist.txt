@@ -37,6 +37,7 @@ fastfetch
 fish
 fisher
 fluffychat
+fractal
 galendae-git
 gamemode
 gemini-cli
