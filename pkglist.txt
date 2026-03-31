@@ -58,7 +58,7 @@ hyprpolkitagent
 hyprprop-git
 hyprpwcenter
 hyprshot
-hyprshutdown-git
+hyprshutdown
 hytale-downloader-bin
 hytale-launcher-bin
 imagemagick
