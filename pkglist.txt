@@ -36,7 +36,6 @@ ex-vi-compat
 fastfetch
 fish
 fisher
-fluffychat
 galendae-git
 gamemode
 gemini-cli
