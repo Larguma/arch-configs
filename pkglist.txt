@@ -4,6 +4,7 @@ agru
 amd-ucode-git
 ansible
 aquamarine
+argon2
 aria2
 aseprite
 aspnet-runtime-bin
