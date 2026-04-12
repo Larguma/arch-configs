@@ -114,6 +114,7 @@ pipewire-jack
 pipewire-pulse
 prismlauncher
 proton-ge-custom-bin
+protontricks
 pv
 pwvucontrol
 python-inputs
