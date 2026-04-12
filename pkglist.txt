@@ -158,6 +158,7 @@ waybar
 wev
 wget
 where-is-my-sddm-theme-git
+wine
 wireguard-tools
 wireless_tools
 wireplumber
