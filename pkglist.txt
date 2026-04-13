@@ -77,7 +77,6 @@ kitty
 kvantum
 lib32-vulkan-radeon
 libnewt
-libnss_nis
 libpulse
 linux
 linux-firmware
@@ -109,6 +108,7 @@ openssh
 overskride-bin
 pacman-contrib
 pince-bin
+pinokio-bin
 pipewire
 pipewire-alsa
 pipewire-jack
