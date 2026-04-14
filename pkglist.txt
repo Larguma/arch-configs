@@ -30,6 +30,7 @@ dmidecode
 docker
 docker-buildx
 docker-compose
+dosfstools
 dotnet-runtime-8.0
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
