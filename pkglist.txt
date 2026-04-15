@@ -110,7 +110,6 @@ openssh
 overskride-bin
 pacman-contrib
 pince-bin
-pinokio-bin
 pipewire
 pipewire-alsa
 pipewire-jack
