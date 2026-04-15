@@ -92,6 +92,7 @@ mesa
 mesa-utils
 micro
 mpv
+ncdu
 nemo
 nemo-fileroller
 nordvpn-bin
