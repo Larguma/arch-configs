@@ -1,4 +1,5 @@
 7zip
+adguardhome
 adw-gtk-theme
 agru
 amd-ucode-git
