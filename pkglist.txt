@@ -77,7 +77,6 @@ jdk21-openjdk
 just
 kitty
 kvantum
-ladybird-git
 lib32-vulkan-radeon
 libnewt
 libpulse
