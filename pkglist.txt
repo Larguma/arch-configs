@@ -140,6 +140,7 @@ slurp
 spicetify-cli
 spicetify-marketplace-bin
 spotify-launcher
+sshfs
 sshpass
 steam
 superfile
