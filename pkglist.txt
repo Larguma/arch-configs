@@ -76,6 +76,7 @@ iwgtk
 jdk-openjdk
 jdk21-openjdk
 just
+kdeconnect
 kitty
 kvantum
 lib32-vulkan-radeon
