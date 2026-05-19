@@ -144,7 +144,6 @@ superfile
 swaync
 syncthing
 systemd-resolvconf
-tixati
 ttf-cascadia-code-nerd
 ttf-liberation
 ttf-nerd-fonts-symbols
