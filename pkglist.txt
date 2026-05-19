@@ -134,6 +134,7 @@ ripgrep-all
 rocm-smi-lib
 sassc
 satty
+scrcpy
 sddm
 slurp
 spicetify-cli
