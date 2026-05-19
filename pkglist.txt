@@ -87,6 +87,7 @@ linux
 linux-firmware
 linux-headers
 localsend
+lutris
 man-db
 man-pages
 mangohud
