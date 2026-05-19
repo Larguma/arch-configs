@@ -43,6 +43,7 @@ fisher
 freedownloadmanager
 galendae-git
 gamemode
+gamescope
 gemini-cli
 ghostmirror
 git
