@@ -89,6 +89,7 @@ linux-headers
 localsend
 man-db
 man-pages
+mangohud
 matugen
 maven
 mesa
