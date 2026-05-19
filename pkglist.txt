@@ -3,6 +3,7 @@ adw-gtk-theme
 agru
 amd-ucode-git
 ansible
+antigravity-cli-bin
 aquamarine
 argon2
 aria2
