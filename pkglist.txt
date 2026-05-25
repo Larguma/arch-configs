@@ -19,6 +19,7 @@ bulky
 calibre-bin
 catppuccin-cursors-mocha
 cava
+cbindgen
 cfr
 chaotic-keyring
 chaotic-mirrorlist
@@ -27,6 +28,7 @@ colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
 debtap
+directx-headers
 dmidecode
 docker
 docker-buildx
@@ -86,6 +88,7 @@ libpulse
 linux
 linux-firmware
 linux-headers
+llvm
 localsend
 man-db
 man-pages
@@ -126,6 +129,7 @@ protontricks
 pv
 pwvucontrol
 python-inputs
+python-ply
 python-pyqt5
 qt5-wayland
 qt6-wayland
@@ -134,6 +138,7 @@ r-quick-share
 realtime-privileges
 ripgrep-all
 rocm-smi-lib
+rust-bindgen
 sassc
 satty
 scrcpy
