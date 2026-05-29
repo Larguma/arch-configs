@@ -131,6 +131,7 @@ qt5-wayland
 qt6-wayland
 qtscrcpy
 r-quick-share
+ratty
 realtime-privileges
 ripgrep-all
 rocm-smi-lib
