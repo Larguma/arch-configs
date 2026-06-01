@@ -99,6 +99,7 @@ mpv
 ncdu
 nemo
 nemo-fileroller
+nnn
 nordvpn-bin
 noto-fonts-cjk
 noto-fonts-emoji
