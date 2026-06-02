@@ -80,10 +80,7 @@ jdk21-openjdk
 just
 kitty
 kvantum
-lib32-clang
-lib32-llvm
 lib32-mesa-tkg-git
-lib32-spirv-llvm-translator
 libnewt
 libpulse
 linux
