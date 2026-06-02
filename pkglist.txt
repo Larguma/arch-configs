@@ -112,6 +112,7 @@ openconnect
 openconnect-sso
 openmotif
 openssh
+openxr
 otf-font-awesome
 overskride-bin
 pacman-contrib
