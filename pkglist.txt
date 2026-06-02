@@ -123,6 +123,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 prismlauncher
+proton-cachyos
 proton-ge-custom-bin
 protontricks
 pv
