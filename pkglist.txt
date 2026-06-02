@@ -80,7 +80,7 @@ jdk21-openjdk
 just
 kitty
 kvantum
-lib32-vulkan-radeon
+lib32-mesa-tkg-git
 libnewt
 libpulse
 linux
@@ -92,7 +92,7 @@ man-pages
 mangohud
 matugen
 maven
-mesa-git
+mesa-tkg-git
 mesa-utils
 micro
 mpv
