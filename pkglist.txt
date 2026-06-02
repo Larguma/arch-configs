@@ -27,7 +27,6 @@ colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
 debtap
-directx-headers
 dmidecode
 docker
 docker-buildx
@@ -81,13 +80,15 @@ jdk21-openjdk
 just
 kitty
 kvantum
+lib32-clang
+lib32-llvm
 lib32-mesa-tkg-git
+lib32-spirv-llvm-translator
 libnewt
 libpulse
 linux
 linux-firmware
 linux-headers
-llvm
 localsend
 man-db
 man-pages
@@ -128,7 +129,6 @@ protontricks
 pv
 pwvucontrol
 python-inputs
-python-ply
 python-pyqt5
 qt5-wayland
 qt6-wayland
@@ -138,7 +138,6 @@ ratty
 realtime-privileges
 ripgrep-all
 rocm-smi-lib
-rust-bindgen
 sassc
 satty
 scrcpy
