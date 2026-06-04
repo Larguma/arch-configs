@@ -166,7 +166,7 @@ vesktop
 vicinae-bin
 visual-studio-code-bin
 vivaldi
-waybar
+waybar-git
 wev
 wget
 where-is-my-sddm-theme-git
