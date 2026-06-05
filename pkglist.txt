@@ -16,7 +16,6 @@ bluez
 bluez-utils
 btop
 bulky
-bun
 calibre-bin
 catppuccin-cursors-mocha
 cava
@@ -88,6 +87,7 @@ linux
 linux-firmware
 linux-headers
 linux-wallpaper-engine-bin
+linux-wallpaper-engine-ux
 localsend
 man-db
 man-pages
@@ -190,4 +190,3 @@ xorg-xinit
 yad
 yay
 yt-dlp
-zip
