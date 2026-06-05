@@ -166,6 +166,7 @@ vicinae-bin
 visual-studio-code-bin
 vivaldi
 waybar-git
+waypaper-git
 wev
 wget
 where-is-my-sddm-theme-git
