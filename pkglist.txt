@@ -48,7 +48,6 @@ gamescope
 gemini-cli
 ghostmirror
 git
-gnome-desktop-4
 gnome-themes-extra
 gpu-viewer
 grim
@@ -56,6 +55,7 @@ gst-plugin-pipewire
 gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
+hidamari
 hplip
 hyprgraphics
 hyprland
@@ -82,10 +82,8 @@ just
 kitty
 kvantum
 lib32-mesa-tkg-git
-libappindicator
 libnewt
 libpulse
-libwnck3
 linux
 linux-firmware
 linux-headers
@@ -131,9 +129,7 @@ protontricks
 pv
 pwvucontrol
 python-inputs
-python-pydbus
 python-pyqt5
-python-python-vlc
 qt5-wayland
 qt6-wayland
 qtscrcpy
@@ -172,7 +168,6 @@ visual-studio-code-bin
 vivaldi
 waybar-git
 waypaper-git
-webkit2gtk
 wev
 wget
 where-is-my-sddm-theme-git
