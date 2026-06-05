@@ -96,6 +96,7 @@ mesa-tkg-git
 mesa-utils
 micro
 mpv
+mpvpaper
 ncdu
 nemo
 nemo-fileroller
