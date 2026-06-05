@@ -48,8 +48,6 @@ gamescope
 gemini-cli
 ghostmirror
 git
-glew
-glm
 gnome-themes-extra
 gpu-viewer
 grim
@@ -88,6 +86,7 @@ libpulse
 linux
 linux-firmware
 linux-headers
+linux-wallpaperengine-git
 localsend
 man-db
 man-pages
