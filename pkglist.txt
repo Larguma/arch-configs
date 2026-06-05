@@ -53,7 +53,6 @@ gpu-viewer
 grim
 gst-plugin-pipewire
 gtk-engine-murrine
-haguichi
 heroic-games-launcher-bin
 hexchat
 hplip
