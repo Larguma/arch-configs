@@ -86,7 +86,7 @@ libpulse
 linux
 linux-firmware
 linux-headers
-linux-wallpaperengine-git
+linux-wallpaper-engine-bin
 localsend
 man-db
 man-pages
