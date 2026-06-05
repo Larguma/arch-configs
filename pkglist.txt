@@ -48,6 +48,8 @@ gamescope
 gemini-cli
 ghostmirror
 git
+glew
+glm
 gnome-themes-extra
 gpu-viewer
 grim
