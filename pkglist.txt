@@ -161,7 +161,6 @@ ttf-noto-nerd
 ttf-symbola
 unrar
 unzip
-variety
 vesktop
 vicinae-bin
 visual-studio-code-bin
