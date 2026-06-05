@@ -86,7 +86,6 @@ libpulse
 linux
 linux-firmware
 linux-headers
-linux-wallpaper-engine-bin
 linux-wallpaper-engine-ux
 localsend
 man-db
