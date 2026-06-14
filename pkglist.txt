@@ -36,6 +36,7 @@ dotnet-runtime-8.0
 dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
+ds5-edge-relay
 dualsensectl-git
 element-desktop
 ex-vi-compat
