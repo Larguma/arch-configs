@@ -84,6 +84,7 @@ kitty
 kvantum
 lib32-mesa-tkg-git
 libnewt
+libnss_nis
 libpulse
 linux
 linux-firmware
