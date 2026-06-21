@@ -74,6 +74,7 @@ hyprutils
 hytale-downloader-bin
 hytale-launcher-bin
 imagemagick
+immich-go
 iwd
 iwgtk
 jdk-openjdk
