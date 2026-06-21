@@ -118,6 +118,7 @@ openxr
 otf-font-awesome
 overskride-bin
 pacman-contrib
+perl-image-exiftool
 pince-bin
 pipewire
 pipewire-alsa
