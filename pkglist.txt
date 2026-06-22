@@ -141,7 +141,6 @@ ratty
 realtime-privileges
 ripgrep-all
 rocm-smi-lib
-rocminfo
 sassc
 satty
 scrcpy
