@@ -120,7 +120,6 @@ overskride-bin
 pacman-contrib
 perl-image-exiftool
 pince-bin
-pinokio-bin
 pipewire
 pipewire-alsa
 pipewire-jack
