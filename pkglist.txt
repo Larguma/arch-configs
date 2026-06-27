@@ -132,7 +132,6 @@ pv
 pwvucontrol
 python-inputs
 python-pyqt5
-python-sphinx
 qt5-wayland
 qt6-wayland
 qtscrcpy
