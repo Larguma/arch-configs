@@ -77,7 +77,6 @@ imagemagick
 immich-go
 iwd
 iwgtk
-jackify-bin
 jdk-openjdk
 jdk21-openjdk
 just
