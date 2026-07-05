@@ -133,6 +133,7 @@ protontricks
 pv
 pwvucontrol
 python-inputs
+python-pycryptodomex
 python-pyqt5
 qt5-wayland
 qt6-wayland
