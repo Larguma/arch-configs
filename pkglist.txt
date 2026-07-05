@@ -77,6 +77,7 @@ imagemagick
 immich-go
 iwd
 iwgtk
+jackify-bin
 jdk-openjdk
 jdk21-openjdk
 just
@@ -131,9 +132,7 @@ protonplus
 protontricks
 pv
 pwvucontrol
-pyside6
 python-inputs
-python-pycryptodome
 python-pyqt5
 qt5-wayland
 qt6-wayland
