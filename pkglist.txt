@@ -50,6 +50,7 @@ gemini-cli
 ghostmirror
 git
 gnome-themes-extra
+google-chrome
 gpu-viewer
 grim
 gst-plugin-pipewire
