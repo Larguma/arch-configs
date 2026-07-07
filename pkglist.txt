@@ -128,7 +128,6 @@ pipewire-pulse
 prismlauncher
 proton-cachyos
 proton-ge-custom-bin
-protonplus
 protontricks
 pv
 pwvucontrol
