@@ -58,7 +58,6 @@ gtk-engine-murrine
 heroic-games-launcher-bin
 hexchat
 hplip
-http-parser
 hyprgraphics
 hyprland
 hyprlang
@@ -151,6 +150,7 @@ sddm
 slurp
 spicetify-cli
 spicetify-marketplace-bin
+splayer-next-bin
 spotify-launcher
 sshfs
 sshpass
