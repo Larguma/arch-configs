@@ -150,7 +150,6 @@ sddm
 slurp
 spicetify-cli
 spicetify-marketplace-bin
-splayer
 spotify-launcher
 sshfs
 sshpass
