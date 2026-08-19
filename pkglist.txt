@@ -25,6 +25,7 @@ chaotic-mirrorlist
 clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
+comfyui
 cups
 debtap
 dmidecode
