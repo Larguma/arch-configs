@@ -85,7 +85,6 @@ just
 kitty
 kvantum
 lib32-mesa-tkg-git
-libappindicator
 libnewt
 libpulse
 linux
@@ -140,6 +139,7 @@ qt5-wayland
 qt6-wayland
 qtscrcpy
 r-quick-share
+r2modman-bin
 ratty
 realtime-privileges
 ripgrep-all
