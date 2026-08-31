@@ -85,6 +85,7 @@ just
 kitty
 kvantum
 lib32-mesa-tkg-git
+libappindicator
 libnewt
 libpulse
 linux
