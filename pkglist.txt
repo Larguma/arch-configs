@@ -3,7 +3,6 @@ adw-gtk-theme
 agru
 amd-ucode-git
 ansible
-antigravity-cli-bin
 aquamarine
 argon2
 aria2
@@ -127,7 +126,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 prismlauncher
-proton-cachyos
 proton-ge-custom-bin
 protontricks
 pv
