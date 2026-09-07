@@ -116,6 +116,7 @@ r-quick-share
 r2modman-bin
 realtime-privileges
 ripgrep-all
+rocm-opencl-runtime
 rocm-smi-lib
 sassc
 satty
