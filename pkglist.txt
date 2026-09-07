@@ -120,7 +120,6 @@ sassc
 satty
 scrcpy
 sddm
-shotcut
 slurp
 spotify-launcher
 sshfs
