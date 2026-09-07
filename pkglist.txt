@@ -18,6 +18,7 @@ clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
+davinci-ffmpeg-encoder-plugin
 davinci-resolve-studio
 docker
 docker-buildx
@@ -144,7 +145,6 @@ vesktop
 vicinae-bin
 visual-studio-code-bin
 vivaldi
-vulkan-headers
 waybar-git
 waypaper-git
 wev
