@@ -1,5 +1,6 @@
 7zip
 amd-ucode-git
+apr-util
 aquamarine
 argon2
 aseprite
@@ -28,6 +29,7 @@ downgrade
 dualsensectl-git
 ex-vi-compat
 fastfetch
+ffmpeg4.4
 fish
 fisher
 freedownloadmanager
@@ -64,6 +66,8 @@ jdk21-openjdk
 kitty
 kvantum
 lib32-mesa-tkg-git
+libc++
+libc++abi
 libpulse
 linux
 linux-firmware
@@ -93,6 +97,7 @@ openssh
 otf-font-awesome
 overskride-bin
 pacman-contrib
+patchelf
 perl-image-exiftool
 pince-bin
 pipewire
@@ -107,7 +112,11 @@ pwvucontrol
 python-inputs
 python-pycryptodomex
 python-pyqt5
+qt5-multimedia
+qt5-quickcontrols2
+qt5-svg
 qt5-wayland
+qt5-x11extras
 qt6-wayland
 qtscrcpy
 r-quick-share
