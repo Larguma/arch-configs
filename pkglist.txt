@@ -144,6 +144,7 @@ vesktop
 vicinae-bin
 visual-studio-code-bin
 vivaldi
+vulkan-headers
 waybar-git
 waypaper-git
 wev
