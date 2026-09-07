@@ -18,6 +18,7 @@ clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
 cups
+davinci-resolve-studio
 docker
 docker-buildx
 docker-compose
