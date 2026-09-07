@@ -65,6 +65,7 @@ kdenlive
 kitty
 kvantum
 lib32-mesa-tkg-git
+libgdiplus
 libpulse
 linux
 linux-firmware
