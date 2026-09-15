@@ -33,6 +33,7 @@ fastfetch
 fish
 fisher
 freedownloadmanager
+gale-bin
 galendae-git
 gamemode
 gamescope
