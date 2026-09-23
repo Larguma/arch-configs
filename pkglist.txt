@@ -10,6 +10,7 @@ blockbench-bin
 bluez
 bluez-utils
 btop
+calf
 calibre-bin
 catppuccin-cursors-mocha
 chaotic-keyring
