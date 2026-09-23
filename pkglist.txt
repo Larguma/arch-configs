@@ -37,7 +37,6 @@ gale-bin
 galendae-git
 gamemode
 gamescope
-gemini-cli
 ghostmirror
 git
 grim
