@@ -73,6 +73,7 @@ libpulse
 linux
 linux-firmware
 linux-headers
+lsp-plugins-lv2
 man-db
 man-pages
 mangohud
