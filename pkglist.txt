@@ -10,7 +10,6 @@ blockbench-bin
 bluez
 bluez-utils
 btop
-calf
 calibre-bin
 catppuccin-cursors-mocha
 chaotic-keyring
@@ -29,7 +28,6 @@ dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
 dualsensectl-git
-easyeffects
 ex-vi-compat
 fastfetch
 fish
