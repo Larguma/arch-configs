@@ -78,7 +78,6 @@ man-db
 man-pages
 mangohud
 maven
-mda.lv2
 mesa-tkg-git
 mesa-utils
 micro
