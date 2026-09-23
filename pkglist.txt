@@ -16,7 +16,6 @@ calibre-bin
 catppuccin-cursors-mocha
 chaotic-keyring
 chaotic-mirrorlist
-claude-desktop
 clicker-git
 colloid-catppuccin-gtk-theme-git
 colloid-catppuccin-theme-git
