@@ -30,6 +30,7 @@ dotnet-sdk-bin
 dotnet-targeting-pack-bin
 downgrade
 dualsensectl-git
+easyeffects
 ex-vi-compat
 fastfetch
 fish
