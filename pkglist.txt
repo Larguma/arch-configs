@@ -13,6 +13,7 @@ bluez
 bluez-utils
 btop
 calibre-bin
+carla
 catppuccin-cursors-mocha
 chaotic-keyring
 chaotic-mirrorlist
