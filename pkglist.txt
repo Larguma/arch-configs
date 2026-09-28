@@ -67,6 +67,7 @@ iwgtk
 jdk-openjdk
 jdk21-openjdk
 kitty
+krita
 kvantum
 lib32-mesa-tkg-git
 libpulse
