@@ -74,6 +74,7 @@ libpulse
 linux
 linux-firmware
 linux-headers
+lycheeslicer
 man-db
 man-pages
 mangohud
@@ -128,7 +129,6 @@ scrcpy
 sddm
 slurp
 spotify-launcher
-squashfs-tools
 sshfs
 sshpass
 steam
