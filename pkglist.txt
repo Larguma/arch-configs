@@ -91,6 +91,7 @@ noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
 nwg-look
+obs-studio
 obsidian
 onlyoffice-bin
 openconnect
