@@ -83,7 +83,6 @@ maven
 mesa-tkg-git
 mesa-utils
 micro
-mongodb
 mongodb-compass
 mongosh
 mpv
