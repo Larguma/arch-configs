@@ -71,6 +71,7 @@ kitty
 krita
 kvantum
 lib32-mesa-tkg-git
+libnss_nis
 libpulse
 linux
 linux-firmware
