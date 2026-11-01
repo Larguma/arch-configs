@@ -71,7 +71,6 @@ kitty
 krita
 kvantum
 lib32-mesa-tkg-git
-libnss_nis
 libpulse
 linux
 linux-firmware
@@ -107,6 +106,7 @@ overskride-bin
 pacman-contrib
 perl-image-exiftool
 pince-bin
+pinokio-bin
 pipewire
 pipewire-alsa
 pipewire-jack
