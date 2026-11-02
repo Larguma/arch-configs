@@ -45,7 +45,6 @@ grim
 gst-plugin-pipewire
 heroic-games-launcher-bin
 hexchat
-himalaya
 hplip
 httpie-desktop-bin
 hyprgraphics
