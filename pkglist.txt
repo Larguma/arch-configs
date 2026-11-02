@@ -1,7 +1,5 @@
 7zip
 amd-ucode-git
-antigravity
-antigravity-cli
 aquamarine
 argon2
 aseprite
