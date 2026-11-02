@@ -111,6 +111,7 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+pre-commit
 prismlauncher
 proton-ge-custom-bin
 protontricks
