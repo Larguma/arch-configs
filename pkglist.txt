@@ -39,6 +39,7 @@ gamemode
 gamescope
 ghostmirror
 git
+github-cli
 grim
 gst-plugin-pipewire
 heroic-games-launcher-bin
