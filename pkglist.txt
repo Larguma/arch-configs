@@ -137,7 +137,6 @@ spotify-launcher
 sshfs
 sshpass
 steam
-superfile
 swaync
 syncthing
 systemd-resolvconf
