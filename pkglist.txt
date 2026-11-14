@@ -1,5 +1,4 @@
 7zip
-alsamixergui
 amd-ucode-git
 antigravity
 aquamarine
