@@ -33,6 +33,7 @@ ex-vi-compat
 fastfetch
 fish
 fisher
+fltk
 freedownloadmanager
 gale-bin
 galendae-git
