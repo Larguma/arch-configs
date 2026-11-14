@@ -1,4 +1,5 @@
 7zip
+alsamixergui
 amd-ucode-git
 antigravity
 aquamarine
@@ -33,7 +34,6 @@ ex-vi-compat
 fastfetch
 fish
 fisher
-fltk
 freedownloadmanager
 gale-bin
 galendae-git
